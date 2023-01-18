@@ -27,35 +27,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
+global.sig = 'https://instagram.com/raka.ramadhan180108'
 global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
+global.sgh = 'https://github.com/KhaTheInvisbel'
 global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.swa = 'wa.me/62895386209243'
+global.swb = 'https://discord.https://github.com/SaepEp/Nexbotzv2/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pdana = '0882006212045'
+global.povo = '0882006212045'
+global.pgopay = '0882006212045'
+global.ppulsa = '0882006212045'
+global.ppulsa2 = '0882006212045'
+global.psaweria = '0882006212045'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '62882006312045'
+global.nomorown = '62895386209243'
+global.namebot = 'Aisyah Botz'
+global.nameown = '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['62895386209243'],
+  ['12532572404'],
+  ['12532572404'],
+  ['12532572404', '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
