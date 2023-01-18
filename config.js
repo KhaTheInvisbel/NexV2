@@ -131,11 +131,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'NexEp'
-global.umurowner = '19'
-global.asalowner = 'Jawa Barat, Bekasi'
-global.nomorowner = 'wa.me/628812743180'
-global.pacarowner = 'Kaede Hitotsuba'
+global.nameowner = '✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞''
+global.umurowner = '15'
+global.asalowner = 'Indonesia, Isekai'
+global.nomorowner = 'wa.me/62882006212045'
+global.pacarowner = 'Aisyahh'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'By Aisyah Botz'
+global.stickauth = `✞ঔৣ۝𝙺𝚑𝚊 𝚃𝚑𝚎 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎۝ঔৣ✞'`
 
 global.multiplier = 38 // The higher, The harder levelup
 
